@@ -11,7 +11,7 @@ One of my favorite ways to get familiar with a new language is by remaking class
 ## Building
 
 Install g++ and make and all that good stuff.
-Install [Raylib]([https://nodejs.org/en/](https://www.raylib.com/)).
+Install [Raylib](https://www.raylib.com/).
 
 ```sh
 make
